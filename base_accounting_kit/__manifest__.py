@@ -23,7 +23,7 @@
 {
     'name': 'Odoo 13 Full Accounting Kit',
     'version': '13.0.4.11.14',
-    'category': 'PerfectWORK, Accounting',
+    'category': 'Accounting',
     'live_test_url': 'https://www.youtube.com/watch?v=peAp2Tx_XIs',
     'summary': """ Asset and Budget Management,
                  Accounting Reports, PDC, Lock dates, 
